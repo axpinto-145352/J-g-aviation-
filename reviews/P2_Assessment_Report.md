@@ -7,11 +7,11 @@
 
 ## Executive Summary
 
-P2 is a well-scoped, technically straightforward analytics build that addresses a clearly documented pain point. The proposal demonstrates strong domain knowledge from a completed Phase 1 engagement, and the economics are favorable. However, the proposal has meaningful gaps in data governance, security specifics, schema resilience, and long-term maintainability documentation that -- while not deal-breakers -- need to be addressed before or during the build to protect both parties. The heaviest risks cluster around data integrity (what happens when QMX changes its schema or data format), operational handoff readiness (can J&G actually maintain this without Veteran Vectors), and the absence of explicit contractual protections around data handling and acceptance criteria.
+P2 is a well-scoped, technically straightforward analytics build that addresses a clearly documented pain point. The proposal demonstrates strong domain knowledge from a completed Phase 1 engagement, and the economics are favorable. However, the proposal has meaningful gaps in data governance, security specifics, schema resilience, and long-term maintainability documentation that — while not deal-breakers — need to be addressed before or during the build to protect both parties. The heaviest risks cluster around data integrity (what happens when QMX changes its schema or data format), operational handoff readiness (can J&G actually maintain this without Veteran Vectors), and the absence of explicit contractual protections around data handling and acceptance criteria.
 
 ### Top 3 Strengths
 
-1. **Strong problem-solution fit.** The proposal directly references J&G's own failed spreadsheet attempt and the specific analysis Mike already did (trimming low-margin aircraft types). This is not a generic pitch -- it is grounded in observed pain from Phase 1 engagement.
+1. **Strong problem-solution fit.** The proposal directly references J&G's own failed spreadsheet attempt and the specific analysis Mike already did (trimming low-margin aircraft types). This is not a generic pitch — it is grounded in observed pain from Phase 1 engagement.
 2. **Honest scoping with clear manual/automated boundaries.** The "What Stays Manual" section explicitly carves out pricing judgment and data interpretation as human responsibilities. This sets realistic expectations and avoids overpromising.
 3. **Strategic positioning as P3 enabler.** P2 is correctly identified as the data foundation that makes P3 (Smart Estimates) functional. This creates a logical build sequence and a genuine compounding value argument rather than an artificial upsell.
 

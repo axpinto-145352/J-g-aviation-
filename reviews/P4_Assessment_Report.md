@@ -12,7 +12,7 @@ This is a well-constructed client deliverable from an experienced automation con
 ### Top 3 Strengths
 
 1. **Deeply grounded in client reality.** The proposal references specific SOPs (5b, 6b), a specific client conversation (February 3 call about the ops admin hire), specific systems (QMX, TBX, SOAR), and specific volume metrics (100+ WOs, 35+ annuals, 50+ estimates). This is not a template — it is built on real discovery.
-2. **Intelligent architectural decision to bundle.** The shared data model argument (QMX → analytics → estimates) is technically sound. Building the analytics foundation first (Weeks 1-2) before the WO and estimate automation (Weeks 3-4) is the correct sequencing. The 23% bundle discount and 43% retainer discount are structured to reward commitment without being predatory.
+2. **Intelligent architectural decision to bundle.** The shared data model argument (QMX → analytics → estimates) is technically sound. Building the analytics foundation first (Weeks 1-2) before the WO and estimate automation (Weeks 3-4) is the correct sequencing. The 23% bundle discount and 25% retainer discount are structured to reward commitment without being predatory.
 3. **Human-in-the-loop by design.** Every system explicitly preserves human judgment at the right points — estimate review and approval, pricing judgment, custom overrides, customer communication. This is the correct pattern for aviation maintenance where errors in estimates or work orders carry real financial and safety implications.
 
 ### Top 3 Critical Findings
@@ -89,7 +89,7 @@ This is a well-constructed client deliverable from an experienced automation con
 - **Current State:** The bundle is the natural culmination of the phased engagement strategy. The shared data model and combined maintenance retainer position VV for ongoing relationship management.
 - **Risk Rating:** LOW — Well-aligned strategically. The bundle creates maximum value for both parties.
 - **Key Findings:**
-  1. The bundle discount (23%) and retainer discount (43%) are well-structured
+  1. The bundle discount (23%) and retainer discount (25%) are well-structured
   2. The shared data model creates genuine technical synergies
   3. The ongoing retainer creates a sustainable revenue relationship
   4. No Phase 3 roadmap or scalability discussion
@@ -97,11 +97,11 @@ This is a well-constructed client deliverable from an experienced automation con
   1. [Quick Win] Add a brief scalability note and Phase 3 roadmap teaser
 
 ### 6. Cost Effectiveness
-- **Current State:** $5,000 one-time (23% discount vs. individual) + $300/month retainer (43% discount). The bundle economics are compelling. The blended rate works out to approximately $75/hour, which is competitive for automation consulting.
+- **Current State:** $5,000 one-time (23% discount vs. individual) + $300/month retainer (25% discount). The bundle economics are compelling. The blended rate works out to approximately $75/hour, which is competitive for automation consulting.
 - **Risk Rating:** LOW — The pricing is fair, the discounts are genuine, and the combined ROI is strong.
 - **Key Findings:**
   1. 23% bundle discount on setup is genuine and meaningful
-  2. 43% retainer discount creates strong incentive for commitment
+  2. 25% retainer discount creates strong incentive for commitment
   3. Combined ROI: estimated 75-100+ hours/year saved, payback in 2-3 months
   4. Infrastructure costs not disclosed separately
   5. The $75/hr blended rate is competitive
@@ -209,7 +209,7 @@ This is a well-constructed client deliverable from an experienced automation con
 ## Cross-Cutting Themes
 
 1. **Combined Complexity Demands Combined Governance:** The bundle creates system interdependencies that don't exist in individual proposals. P2 data feeds P3, P1 and P3 both write to QMX, all three share credentials. This complexity requires governance proportional to the system scope — and the proposal treats governance the same as for an individual component.
-2. **The Bundle Discount Comes with a Documentation Debt:** The 23% setup discount and 43% retainer discount make the bundle attractive — but the documentation and handoff specification has not been scaled to match the combined complexity. The client is getting a 23% discount on a system that is 3x more complex to maintain.
+2. **The Bundle Discount Comes with a Documentation Debt:** The 23% setup discount and 25% retainer discount make the bundle attractive — but the documentation and handoff specification has not been scaled to match the combined complexity. The client is getting a 23% discount on a system that is 3x more complex to maintain.
 3. **Domain Expertise is the Strongest Asset:** Across all three systems, the vendor's demonstrated knowledge of J&G's operations is the proposal's most compelling quality. This institutional knowledge needs to be captured in documentation — not lost when the vendor's attention moves to the next client.
 
 ## Priority Matrix

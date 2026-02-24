@@ -9,11 +9,11 @@
 
 ## Executive Summary
 
-The P1 proposal is commercially sound, well-structured, and presents a compelling time-savings case. However, it has meaningful gaps in governance, error handling specifics, data integrity safeguards, and handoff readiness that must be addressed before delivery -- especially given the military-adjacent aviation maintenance context where work order accuracy has safety implications.
+The P1 proposal is commercially sound, well-structured, and presents a compelling time-savings case. However, it has meaningful gaps in governance, error handling specifics, data integrity safeguards, and handoff readiness that must be addressed before delivery — especially given the military-adjacent aviation maintenance context where work order accuracy has safety implications.
 
 ### Top 3 Strengths
 
-1. **Strong ROI narrative with quantified savings.** The proposal converts 26+ manual steps across 6 systems into a single-trigger automation, projecting 45-57 hours/year saved at an effective cost of $35-44/hr saved in Year 1 -- a clear, defensible value proposition.
+1. **Strong ROI narrative with quantified savings.** The proposal converts 26+ manual steps across 6 systems into a single-trigger automation, projecting 45-57 hours/year saved at an effective cost of $35-44/hr saved in Year 1 — a clear, defensible value proposition.
 2. **Phased engagement model.** P1 deliberately builds on completed Phase 1 integrations (Slack, SOAR, QMX, HubSpot, Google Drive already connected), which de-risks the technical execution and validates client trust.
 3. **Transparent pricing with maintenance included.** The $2,000 one-time + $100/month structure is straightforward, with no hidden tiers. The ongoing maintenance fee creates a revenue floor and signals long-term support commitment.
 
@@ -30,7 +30,7 @@ The P1 proposal is commercially sound, well-structured, and presents a compellin
 | 1 | Add an Error Handling & Rollback section to the proposal specifying behavior for partial failures across the 6-system chain | P0 - Critical | Guardrails (9), Data Integrity (13) |
 | 2 | Define input validation rules and duplicate-prevention logic (idempotency keys, dedup checks) | P0 - Critical | Data Integrity (13), Security (8) |
 | 3 | Add a Handoff & Documentation deliverable: system map, runbook, troubleshooting guide, credential inventory | P1 - High | Maintainability (12), Client UX (11) |
-| 4 | Specify human-in-the-loop checkpoints -- at minimum, a confirmation step before records are committed to QMX and HubSpot | P1 - High | AI Safety (10), Guardrails (9) |
+| 4 | Specify human-in-the-loop checkpoints — at minimum, a confirmation step before records are committed to QMX and HubSpot | P1 - High | AI Safety (10), Guardrails (9) |
 | 5 | Add a Data Processing Addendum or privacy clause addressing what data flows through n8n and where it is stored/logged | P1 - High | Legal (1), Security (8) |
 
 ---
